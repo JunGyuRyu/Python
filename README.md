@@ -16,7 +16,7 @@ Player1, Player2 두명이 함께 방향키를 사용하여 플레이 하는 게
 게임 종료 시점에서 Score가 더 높은 Player가 승리.)
 
 ------------------------------------------------------------------------------------------------------------
-<image src = "https://user-images.githubusercontent.com/88473185/186391993-c4ebfd11-b108-4055-87e7-ffebebfec883.png" width="200" height="400"/>
+<image src = "https://user-images.githubusercontent.com/88473185/186391993-c4ebfd11-b108-4055-87e7-ffebebfec883.png" width="400" height="400"/>
 
 각 칸마다 랜덤으로 1~10사이의 정수를 갖는 9x9의 땅을 생성.
 
