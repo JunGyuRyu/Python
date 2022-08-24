@@ -33,7 +33,7 @@ Player1, Player2 두명이 함께 방향키를 사용하여 플레이 하는 게
 ※만약 누른 방향이 벽이라면 움직이지 않고 자신의 차례만 넘어감.
 
 ------------------------------------------------------------------------------------------------------------
-<image src ="https://user-images.githubusercontent.com/88473185/186392638-eaafdb69-2e49-40b1-959c-1f066f4db66f.png"width="400" height="400"/>
+<image src ="https://user-images.githubusercontent.com/88473185/186393196-634f915d-a37f-4859-94a6-60d2cca6507b.png"width="400" height="400"/>
 
 초록색 땅에 도착하면 해당 칸에 적혀있는 숫자에 -3 ~ 3 까지의 정수 중 
 랜덤으로 곱하고 그것을 현재 Player의 점수에 더한다.
